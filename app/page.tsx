@@ -29,6 +29,7 @@ export default function VietstaticPage() {
         </a>
 
         <p>Made with ❤️ by Anthony Tran</p>
+        <p>v1</p>
       </footer>
     </div>
   );
